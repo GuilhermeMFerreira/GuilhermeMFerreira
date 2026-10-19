@@ -38,11 +38,11 @@
 <div align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=VitorAlencarAraujo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=79C0FF&ring_color=58A6FF"
+    src="https://github-readme-stats.vercel.app/api?username=GuilhermeMFerreira&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=79C0FF&ring_color=58A6FF"
   />
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAlencarAraujo&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMFerreira&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF"
   />
 </div>
 
