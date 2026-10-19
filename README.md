@@ -45,10 +45,3 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMFerreira&layout=compact&hide_border=true&bg_color=0D1117&title_color=D3AF37&text_color=FFFFFF"
   />
 </div>
-
-## ☕ *Building, learning, and evolving...*
-<div align="center">
-<img
-src="https://raw.githubusercontent.com/VitorAlencarAraujo/VitorAlencarAraujo/snake-output/snake.svg?v=2"
-/>
-</div>
