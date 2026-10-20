@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="assets/technologies.png" alt="Technologies" width="100%" />
+<img src="assets/images/technologies.png" alt="Technologies" width="100%" />
 
 </div>
 
