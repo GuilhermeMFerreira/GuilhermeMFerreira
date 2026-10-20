@@ -8,32 +8,6 @@
 
 </div>
 
-
-##  *Technologies*
-
-<div align="center">
-
-<!-- Dourado escuro -->
-<img src="https://img.shields.io/badge/LINUX-8B6508?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/GIT-966E0A?style=for-the-badge&logo=git&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/GITHUB-A1770C?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/C%2B%2B-AC800E?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/JAVA-B78910?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" />
-
-<!-- Dourado intermediário -->
-<img src="https://img.shields.io/badge/JAVASCRIPT-CD9C15?style=for-the-badge&logo=javascript&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/NODE.JS-D3AF37?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/MYSQL-D8B642?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/HTML5-DEBE4F?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/CSS3-E3C55C?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
-
-<!-- Dourado claro -->
-<img src="https://img.shields.io/badge/FIGMA-F1DA85?style=for-the-badge&logo=figma&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/NOTION-F5E192?style=for-the-badge&logo=notion&logoColor=FFFFFF" />
-
-</div>
-
-
 ##  *GitHub*
 
 <p align="left">
