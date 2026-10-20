@@ -3,7 +3,7 @@
 
 
 
-## 🛠️ *Technologies*
+##  *Technologies*
 
 <div align="center">
 
@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/badge/GITHUB-A1770C?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/C%2B%2B-AC800E?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/JAVA-B78910?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/SPRING_BOOT-C29212?style=for-the-badge&logo=springboot&logoColor=FFFFFF" />
 
 <!-- Dourado intermediário -->
 <img src="https://img.shields.io/badge/JAVASCRIPT-CD9C15?style=for-the-badge&logo=javascript&logoColor=000000" />
@@ -27,12 +26,11 @@
 <img src="https://img.shields.io/badge/ANGULAR-ECD377?style=for-the-badge&logo=angular&logoColor=000000" />
 <img src="https://img.shields.io/badge/FIGMA-F1DA85?style=for-the-badge&logo=figma&logoColor=000000" />
 <img src="https://img.shields.io/badge/NOTION-F5E192?style=for-the-badge&logo=notion&logoColor=000000" />
-<img src="https://img.shields.io/badge/CLAUDE-FAE8A0?style=for-the-badge&logo=claude&logoColor=000000" />
 
 </div>
 
 
-## 📊 *GitHub*
+##  *GitHub*
 
 <p align="left">
 <div align="center">
