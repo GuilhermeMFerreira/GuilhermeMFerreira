@@ -2,6 +2,12 @@
 
 
 
+<div align="center">
+
+<img src="assets/technologies.png" alt="Technologies" width="100%" />
+
+</div>
+
 
 ##  *Technologies*
 
@@ -15,17 +21,15 @@
 <img src="https://img.shields.io/badge/JAVA-B78910?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" />
 
 <!-- Dourado intermediário -->
-<img src="https://img.shields.io/badge/JAVASCRIPT-CD9C15?style=for-the-badge&logo=javascript&logoColor=000000" />
-<img src="https://img.shields.io/badge/NODE.JS-D3AF37?style=for-the-badge&logo=nodedotjs&logoColor=000000" />
-<img src="https://img.shields.io/badge/MYSQL-D8B642?style=for-the-badge&logo=mysql&logoColor=000000" />
-<img src="https://img.shields.io/badge/HTML5-DEBE4F?style=for-the-badge&logo=html5&logoColor=000000" />
-<img src="https://img.shields.io/badge/CSS3-E3C55C?style=for-the-badge&logo=css3&logoColor=000000" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-CD9C15?style=for-the-badge&logo=javascript&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/NODE.JS-D3AF37?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/MYSQL-D8B642?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/HTML5-DEBE4F?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/CSS3-E3C55C?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
 
 <!-- Dourado claro -->
-<img src="https://img.shields.io/badge/REACT-E8CC6A?style=for-the-badge&logo=react&logoColor=000000" />
-<img src="https://img.shields.io/badge/ANGULAR-ECD377?style=for-the-badge&logo=angular&logoColor=000000" />
-<img src="https://img.shields.io/badge/FIGMA-F1DA85?style=for-the-badge&logo=figma&logoColor=000000" />
-<img src="https://img.shields.io/badge/NOTION-F5E192?style=for-the-badge&logo=notion&logoColor=000000" />
+<img src="https://img.shields.io/badge/FIGMA-F1DA85?style=for-the-badge&logo=figma&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/NOTION-F5E192?style=for-the-badge&logo=notion&logoColor=FFFFFF" />
 
 </div>
 
@@ -42,4 +46,3 @@
     height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMFerreira&layout=compact&hide_border=true&bg_color=0D1117&title_color=D3AF37&text_color=FFFFFF"
   />
-</div>
