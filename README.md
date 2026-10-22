@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="assets/images/technologies.png" alt="Technologies" width="100%" />
+<img src="assets/images/technologies2.png" alt="Technologies" width="100%" />
 
 </div>
 
@@ -20,3 +20,5 @@
     height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMFerreira&layout=compact&hide_border=true&bg_color=0D1117&title_color=D3AF37&text_color=FFFFFF"
   />
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D3AF37&height=120&section=footer"/>
